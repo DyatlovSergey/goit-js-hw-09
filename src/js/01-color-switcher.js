@@ -37,3 +37,5 @@ function onClickStopBtn() {
 refs.startBtn.addEventListener('click', onClickStartBtn);
 refs.stopBtn.addEventListener('click', onClickStopBtn);
 refs.stopBtn.setAttribute('disabled', true);
+
+//
